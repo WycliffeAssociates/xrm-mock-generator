@@ -1,7 +1,7 @@
 (function (undefined) {
     "use strict";
 
-    var XrmMock = require("xrm-mock");
+    var XrmMock = require("@wycliffeassociates/xrm-mock");
     var Ui = require("ui.js");
 
     var Control = function () {};    

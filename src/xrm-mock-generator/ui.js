@@ -1,7 +1,7 @@
 (function (undefined) {
     "use strict";
 
-    var XrmMock = require("xrm-mock");
+    var XrmMock = require("@wycliffeassociates/xrm-mock");
     var Form = require("./form.js");
 
     var Ui = function () {};

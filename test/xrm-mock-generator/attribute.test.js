@@ -1,5 +1,5 @@
 describe("XrmMockGenerator.Attribute", function () {
-    var XrmMock = require("xrm-mock");
+    var XrmMock = require("@wycliffeassociates/xrm-mock");
     var XrmMockGenerator = require("../../src/xrm-mock-generator.js");
 
     beforeEach(function () {

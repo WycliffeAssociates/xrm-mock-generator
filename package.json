@@ -23,9 +23,11 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jasmine": "^2.5.53",
+    "browserify": "^14.4.0",
     "jasmine": "^2.7.0",
     "wallaby-webpack": "0.0.39",
     "webpack": "^3.5.1",
-    "xrm-mock": "^2.0.5"
-  }
+    "@wycliffeassociates/xrm-mock": "^0.0.1"
+  },
+  "dependencies": {}
 }
